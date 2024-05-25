@@ -1,0 +1,42 @@
+header{
+   background-color: black;
+   color: white;
+   display: inline-flex;
+   width: 100%;
+   padding-left: 5%;
+}
+
+nav{
+   display: flex;
+   justify-content: flex-end;
+}
+ul{
+   list-style-type: none;
+   margin: 0;
+   padding: 5px;
+   overflow: hidden;
+   float: right;
+}
+
+li{
+   color: white;
+   padding: 20px;
+   float: right;
+}
+
+main{
+   text-align: center; 
+}
+
+img{
+   width: 600px;
+   height: 400px;
+}
+section{
+   text-align: center;
+   display: flexbox;
+
+}
+/*h2{
+   text-align: center;
+}*/
